@@ -1,3 +1,4 @@
+import { SumBrandComponent } from './components/sum-brand/sum-brand.component';
 import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
@@ -8,6 +9,7 @@ export const routes: Routes = [
   {path: '', redirectTo: 'listauto', pathMatch: 'full'},
   {path: 'listauto', component: ListAutoComponent},
   {path: 'addauto', component: AddAutoComponent},
+  {path: 'sumbrand', component: SumBrandComponent},
 
 ];
 

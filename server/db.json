@@ -6,9 +6,44 @@
       "price": 23000
     },
     {
-      "id": 0,
+      "id": "0",
       "brand": "Ford",
       "price": 15000
+    },
+    {
+      "id": "0",
+      "brand": "Toyota",
+      "price": 12124
+    },
+    {
+      "id": "0",
+      "brand": "Mazda",
+      "price": 21000
+    },
+    {
+      "id": "0",
+      "brand": "Mazda",
+      "price": 18000
+    },
+    {
+      "id": "0",
+      "brand": "Toyota",
+      "price": 15000
+    },
+    {
+      "id": 0,
+      "brand": "Kia",
+      "price": 17500
+    },
+    {
+      "id": 0,
+      "brand": "Chevrolet",
+      "price": 23000
+    },
+    {
+      "id": 0,
+      "brand": "Kia",
+      "price": 22000
     }
   ]
 }
